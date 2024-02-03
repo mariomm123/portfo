@@ -1,0 +1,5 @@
+email, subject, message
+
+mmario_mendes@hotmail.com,Python flask,hello
+mario.manuel.mendes@gmail.com,Python flask,jghjg
+mmario_mendes@hotmail.com,uiuyi,iyuiyui
